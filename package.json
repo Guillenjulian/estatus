@@ -1,0 +1,7 @@
+{
+  "name": "estados",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "author": "Guillen Julian <guillen.julian1985@gmail.com>",
+  "license": "MIT"
+}
